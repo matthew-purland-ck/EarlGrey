@@ -27,7 +27,8 @@
 #ifndef COMMON_GREY_ASSERTION_DEFINES_H
 #define COMMON_GREY_ASSERTION_DEFINES_H
 
-#import " IWYU pragma: keep
+// IWYU pragma: keep
+#import "GREYDescribeVariable.h"
 #import "GREYFailureHandler.h"
 #import "GREYFrameworkException.h"
 #import "GREYDefines.h"
